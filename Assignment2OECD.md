@@ -7,8 +7,8 @@
 
 
 ## Chart 2: The Differences in Government Debt-to-GDP Ratio Trends among OECD Countries
-https://public.flourish.studio/visualisation/5295
+<div class="flourish-embed flourish-chart" data-src="visualisation/5295950"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Chart 3: Japan vs USA's Government Debt-to-GDP Ratio Compared to Other OECD Countries
- https://public.flourish.studio/visualisation/5297
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5297059"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
