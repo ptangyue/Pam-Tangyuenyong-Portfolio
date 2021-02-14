@@ -6,4 +6,4 @@
 
 
 ## Chart 2: The differences in Debt-to-GDP ratio trends among OECD countries
-<div class="flourish-embed flourish-chart" data-src="visualisation/5295950"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+https://public.flourish.studio/visualisation/5295
