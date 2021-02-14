@@ -17,4 +17,4 @@ I also hope to be a more effective data viz critic by the end of this course! Sa
 # Portfolio
 Here is where all my data viz will go!
 
-[Assignment 2: Visualizing OECD Data](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Assignment2OECD.html)
+[Assignment 2: Visualizing OECD Government Debt](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Assignment2OECD.html)
