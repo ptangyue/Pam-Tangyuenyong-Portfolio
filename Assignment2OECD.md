@@ -1,4 +1,4 @@
-# Assignment 2: Visualizing government debt 
+# Assignment 2: Visualizing OECD Government Debt 
 
 ## Chart 1: The Barchart of Government Debt-to-GDP Ratio in 2019 across OECD Countries
 
