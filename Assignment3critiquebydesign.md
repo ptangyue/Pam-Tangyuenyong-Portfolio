@@ -26,6 +26,8 @@ Therefore, I made adjustments as follow to tackle with key issues mentioned.
 -	Change chart title to be more specific and representative (change to “Recent trends in top3 focus of 3D printing technology” to support the key message in the article)
 -	Use similar tone of color as presented in the original work because it conveys positivity and represents sequential data. I use 3 sequential colors to present Top3 trends, as highlighted in the original article, and utilize grey to provide context for those data.
 
+![My wireframe](/Sketch.png)
+
 
 ## Step 3: Getting user’s feedback
 Users found the sketch visualization easier to read and can understand most of the key ideas. The color tone also goes along with the main story. However, one area of concern is the variation in % of respondents presented in each year. This results from the original data set that present each element in % but accumulated over 100%. (because each survey respondent can select more than one answer) While the size of each element in my sketch should be read as accumulative, most users read it as individual. The confusion also causes audience to be less engaged in the visualization. In brief, the sketch still has issue in the aspect of Intuitiveness and Engagement.
