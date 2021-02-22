@@ -36,5 +36,3 @@ I chose this data viz because it meets all the 7 criteria; usefulness, completen
 In brief, I used stacked area (%) instead of the original 20 separate bars to present the trend in each focus areas over the period of 5 years. The change in x-axis to year makes it more intuitive for the reader. The clarified label in y-axis makes the context clear. Repetition of information such as % are deleted, and the title is changed to be more representative of the data set.
 
 
-# 3. My redesigned visualization
-<div class="flourish-embed flourish-chart" data-src="visualisation/5358721"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
