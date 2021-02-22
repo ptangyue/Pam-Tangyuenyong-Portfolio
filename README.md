@@ -20,4 +20,4 @@ Here is where all my data viz will go!
 [Assignment 2: Visualizing OECD Government Debt](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Assignment2OECD.html)
 
 
-[Assignment 3: Critique by Design](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Assignment3-Critique by design.html)
+[Assignment 3: Critique by Design](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Assignment3CritiquebyDesign.html)
