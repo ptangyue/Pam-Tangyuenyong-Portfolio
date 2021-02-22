@@ -28,7 +28,6 @@ Therefore, I made adjustments as follow to tackle with key issues mentioned.
 
 ![My wireframe](/Sketch.png)
 
-
 ## Step 3: Getting user’s feedback
 Users found the sketch visualization easier to read and can understand most of the key ideas. The color tone also goes along with the main story. However, one area of concern is the variation in % of respondents presented in each year. This results from the original data set that present each element in % but accumulated over 100%. (because each survey respondent can select more than one answer) While the size of each element in my sketch should be read as accumulative, most users read it as individual. The confusion also causes audience to be less engaged in the visualization. In brief, the sketch still has issue in the aspect of Intuitiveness and Engagement.
 
