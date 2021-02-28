@@ -1,34 +1,42 @@
-Part I
+# Part I
 
-An Outline
+## 1. An Outline
 
-o	High-level Summary
+####	High-level Summary
 To show that the rise in elder scam is a real threat for the US aging society, and to call for protective action among other generation to proactively safeguard our elder loved one. 
 
-o	Main Audiences
+####	Main Audiences
 General public (especially those who are related to elderly people)
 
-o	Project Structure
-o	Set up: With the unprecedented population stagnation in the past few decades, the US is now moving towards the ageing society.
+#### Project Structure
+#### o Set up
+With the unprecedented population stagnation in the past few decades, the US is now moving towards the ageing society.
 
-o	Conflict: Public usually view this ageing trend on a bright side and only aware of opportunities to develop elder-supported services both in the form of innovation or governmental system. However, we often overlook the fact that the higher number of senior populations, the higher chance that ill-intention business can exploit from this vulnerable group. 
+#### o Conflict
+Public usually view this ageing trend on a bright side and only aware of opportunities to develop elder-supported services both in the form of innovation or governmental system. However, we often overlook the fact that the higher number of senior populations, the higher chance that ill-intention business can exploit from this vulnerable group. 
 
-o	Problem and statistics: Elderly is a prime target for scam and exploitation. People over age 65 make up only an eighth of the U.S. population but strikingly they are as many as a third of all scam victims. In this part, other statistics will be included to give the audience more solid idea about the problem, its scope, and its negative repercussions on senior targets. These will include statistic and visualizations such as percentage of elder scam attack by category, financial loss from scam by age group, how much does average elder loss from scam make up for their fixed pension income. 
+#### o Problem and statistics
+Elderly is a prime target for scam and exploitation. People over age 65 make up only an eighth of the U.S. population but strikingly they are as many as a third of all scam victims. In this part, other statistics will be included to give the audience more solid idea about the problem, its scope, and its negative repercussions on senior targets. These will include statistic and visualizations such as percentage of elder scam attack by category, financial loss from scam by age group, how much does average elder loss from scam make up for their fixed pension income. 
 
-o	Resolution: The project will introduce practical protective measures that we and the senior themselves can easily implement. My goal for this project is to encourage younger generation to be aware of the seriousness of elder scam issue and be prepared to protect our elder loved ones. 
+#### o Resolution
+The project will introduce practical protective measures that we and the senior themselves can easily implement. My goal for this project is to encourage younger generation to be aware of the seriousness of elder scam issue and be prepared to protect our elder loved ones. 
 
-o	Story Arc
+#### Story Arc
 
-o	Persuasion Technic 
-o	Lure procedure: This technic will be used when introducing the audience about the main topic in Conflict section. This will be done by first presenting audience about what are the common view about opportunity in ageing America, then present them with another side of story about threat from elder scam. (Please graphic details in the Initial Sketch section). By showing them their expectation first and reality next, I hope to create a moment of surprise for the audience to see a thing in a new way. 
+#### Persuasion Technic 
+#### o	Lure procedure: 
+This technic will be used when introducing the audience about the main topic in Conflict section. This will be done by first presenting audience about what are the common view about opportunity in ageing America, then present them with another side of story about threat from elder scam. (Please graphic details in the Initial Sketch section). By showing them their expectation first and reality next, I hope to create a moment of surprise for the audience to see a thing in a new way. 
 
-o	Use information outside data set (competitive group, unexpected reference point): I will use this technic to help audience not only visualize the data sets but also visualize the whole ideas presented. For example, the visualization about “the financial loss from scam by age group” will allow audience to compare the elder financial loss to theirs, which will make the issue more relatable to them. 
+#### o	Use information outside data set (competitive group, unexpected reference point): 
+I will use this technic to help audience not only visualize the data sets but also visualize the whole ideas presented. For example, the visualization about “the financial loss from scam by age group” will allow audience to compare the elder financial loss to theirs, which will make the issue more relatable to them. 
 
 Another tactic is to use unexpected reference point. Roughly, I will use this tactic to show how much average elder loss from scam account for their fixed pension income, or show how much this money worth by showing what else they can use this money for if it is secure. 
 
-o	Make it simplest: I will apply this technic by choosing one main color theme, red, for the final project. As color has meanings, I think red tone would best allow me to imply how alarming and serious the issue is. However, calmer tone such as blue will be used when we reach toward Solution section. Bluish tone gives audience a reassuring feeling which align with the purpose of solution part. 
+#### o	Make it simplest: 
+I will apply this technic by choosing one main color theme, red, for the final project. As color has meanings, I think red tone would best allow me to imply how alarming and serious the issue is. However, calmer tone such as blue will be used when we reach toward Solution section. Bluish tone gives audience a reassuring feeling which align with the purpose of solution part. 
 
-The Data
+
+## 2. The Data
 
 o	The US aging population trend 
 https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=0&selectedRows=%7B%22wrapups%22:%7B%22united-states%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D  
@@ -38,16 +46,15 @@ https://www.aarp.org/money/scams-fraud/info-2020/ftc-top-scams.html
 https://www.ncoa.org/economic-security/money-management/scams-security/top-10-scams-targeting-seniors/
 https://www.ftc.gov/news-events/blogs/data-spotlight/2019/02/romance-scams-rank-number-one-total-reported-losses
 
-o	$ loss by age (young vs elderly)  build data viz (data originally from FTC)
+o	$ loss by age (young vs elderly) 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-fraud-complaints-rise.html
 https://www.comparitech.com/blog/vpn-privacy/elder-fraud-by-state/
 
-o	How much it cost
+o	How much does scam costs elderly
 https://www.ftc.gov/system/files/documents/reports/protecting-older-consumers-2018-2019-report-federal-trade-commission/p144401_protecting_older_consumers_2019_1.pdf (viz)
 
 o	Effect of abuse
 https://www.ncoa.org/public-policy-action/elder-justice/elder-abuse-facts/
-
 
 o	How to protected our loved one
 https://www.ncoa.org/economic-security/money-management/scams-security/protection-from-scams/
@@ -55,15 +62,13 @@ https://www.consumerreports.org/elder-fraud/ways-to-stop-senior-citizen-scams/
 https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/elder-fraud
 https://www.justice.gov/elderjustice
 
-https://theconversation.com/winning-at-all-costs-how-abuse-in-sport-has-become-normalised-142739
-https://thehill.com/opinion/civil-rights/540212-netflixs-i-care-a-lot-should-worry-you
 
 
-Initial Sketches
+## 3. Initial Sketches
 
-Method and Medium
+## 4. Method and Medium
 
-Method
+### Method
 
 1.	Research and understand the core problem
 In this stage, I will dive deep to learn more about the topic and collect relevant information both in quantitative and qualitative forms. The data collected will include aspects such as common types of senior scams attacks, data on number of reported cases, comparison of financial loss compared to other age group, contributing factors, and post-abuse repercussion on target. 
@@ -86,6 +91,6 @@ Similar to user feedback I
 7.	Redesign II (Final)
 The main purpose in the step would be to ensure that all visualizations support the main story, and that the whole message is compelling and engaging. 
 
-Medium:
-Shorthand will be used for final project and final presentation in class
-![image](https://user-images.githubusercontent.com/78334101/109432927-8c164300-79db-11eb-805f-b89b021dce61.png)
+### Medium:
+Shorthand will be used for final project and final presentation in class.
+
