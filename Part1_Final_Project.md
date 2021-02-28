@@ -2,28 +2,28 @@
 
 ## 1. An Outline
 
-####	High-level Summary
+###	High-level Summary
 To show that the rise in elder scam is a real threat for the US aging society, and to call for protective action among other generation to proactively safeguard our elder loved one. 
 
-####	Main Audiences
+###	Main Audiences
 General public (especially those who are related to elderly people)
 
-#### Project Structure
-#### o Set up
+### Project Structure
+#### o  Set up
 With the unprecedented population stagnation in the past few decades, the US is now moving towards the ageing society.
 
-#### o Conflict
+#### o  Conflict
 Public usually view this ageing trend on a bright side and only aware of opportunities to develop elder-supported services both in the form of innovation or governmental system. However, we often overlook the fact that the higher number of senior populations, the higher chance that ill-intention business can exploit from this vulnerable group. 
 
-#### o Problem and statistics
+#### o  Problem and statistics
 Elderly is a prime target for scam and exploitation. People over age 65 make up only an eighth of the U.S. population but strikingly they are as many as a third of all scam victims. In this part, other statistics will be included to give the audience more solid idea about the problem, its scope, and its negative repercussions on senior targets. These will include statistic and visualizations such as percentage of elder scam attack by category, financial loss from scam by age group, how much does average elder loss from scam make up for their fixed pension income. 
 
-#### o Resolution
+#### o  Resolution
 The project will introduce practical protective measures that we and the senior themselves can easily implement. My goal for this project is to encourage younger generation to be aware of the seriousness of elder scam issue and be prepared to protect our elder loved ones. 
 
-#### Story Arc
+### Story Arc
 
-#### Persuasion Technic 
+### Persuasion Technic 
 #### o	Lure procedure: 
 This technic will be used when introducing the audience about the main topic in Conflict section. This will be done by first presenting audience about what are the common view about opportunity in ageing America, then present them with another side of story about threat from elder scam. (Please graphic details in the Initial Sketch section). By showing them their expectation first and reality next, I hope to create a moment of surprise for the audience to see a thing in a new way. 
 
@@ -38,25 +38,25 @@ I will apply this technic by choosing one main color theme, red, for the final p
 
 ## 2. The Data
 
-o	The US aging population trend 
+o	 The US aging population trend 
 https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=0&selectedRows=%7B%22wrapups%22:%7B%22united-states%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D  
 
-o	Percentage of elder scam attacks by types 
+o	 Percentage of elder scam attacks by types 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-top-scams.html
 https://www.ncoa.org/economic-security/money-management/scams-security/top-10-scams-targeting-seniors/
 https://www.ftc.gov/news-events/blogs/data-spotlight/2019/02/romance-scams-rank-number-one-total-reported-losses
 
-o	$ loss by age (young vs elderly) 
+o	 Financial loss from scam by age groups (young vs elderly) 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-fraud-complaints-rise.html
 https://www.comparitech.com/blog/vpn-privacy/elder-fraud-by-state/
 
-o	How much does scam costs elderly
+o	 How much does scam costs elderly
 https://www.ftc.gov/system/files/documents/reports/protecting-older-consumers-2018-2019-report-federal-trade-commission/p144401_protecting_older_consumers_2019_1.pdf (viz)
 
-o	Effect of abuse
+o	 Effect of abuse
 https://www.ncoa.org/public-policy-action/elder-justice/elder-abuse-facts/
 
-o	How to protected our loved one
+o	 How to protected our loved one
 https://www.ncoa.org/economic-security/money-management/scams-security/protection-from-scams/
 https://www.consumerreports.org/elder-fraud/ways-to-stop-senior-citizen-scams/
 https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/elder-fraud
