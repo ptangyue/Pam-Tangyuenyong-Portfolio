@@ -47,12 +47,15 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
 •		 Percentage of elder scam attacks by types 
 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-top-scams.html
+
 https://www.ncoa.org/economic-security/money-management/scams-security/top-10-scams-targeting-seniors/
+
 https://www.ftc.gov/news-events/blogs/data-spotlight/2019/02/romance-scams-rank-number-one-total-reported-losses
 
 •		 Financial loss from scam by age groups (young vs elderly) 
 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-fraud-complaints-rise.html
+
 https://www.comparitech.com/blog/vpn-privacy/elder-fraud-by-state/
 
 •		 How much does scam costs elderly
@@ -66,8 +69,11 @@ https://www.ncoa.org/public-policy-action/elder-justice/elder-abuse-facts/
 •		 How to protected our loved one
 
 https://www.ncoa.org/economic-security/money-management/scams-security/protection-from-scams/
+
 https://www.consumerreports.org/elder-fraud/ways-to-stop-senior-citizen-scams/
+
 https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/elder-fraud
+
 https://www.justice.gov/elderjustice
 
 
