@@ -23,4 +23,4 @@ Here is where all my data viz will go!
 [Assignment 3](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/A3assignment.html)
 
 
-[Final Project: PartI](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Final.html)
+[Final Project: Part I](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Part1_Final_Project.html)
