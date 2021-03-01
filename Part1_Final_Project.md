@@ -56,7 +56,6 @@ https://www.ftc.gov/news-events/blogs/data-spotlight/2019/02/romance-scams-rank-
 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-fraud-complaints-rise.html
 
-https://www.comparitech.com/blog/vpn-privacy/elder-fraud-by-state/
 
 •		 How much does scam costs elderly
 
