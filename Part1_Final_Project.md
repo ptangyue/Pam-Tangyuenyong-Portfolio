@@ -41,24 +41,30 @@ I will apply this technic by choosing one main color theme, red, for the final p
 ## 2. The Data
 
 •		 The US aging population trend 
+
 https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=0&selectedRows=%7B%22wrapups%22:%7B%22united-states%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D  
 
 •		 Percentage of elder scam attacks by types 
+
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-top-scams.html
 https://www.ncoa.org/economic-security/money-management/scams-security/top-10-scams-targeting-seniors/
 https://www.ftc.gov/news-events/blogs/data-spotlight/2019/02/romance-scams-rank-number-one-total-reported-losses
 
 •		 Financial loss from scam by age groups (young vs elderly) 
+
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-fraud-complaints-rise.html
 https://www.comparitech.com/blog/vpn-privacy/elder-fraud-by-state/
 
 •		 How much does scam costs elderly
+
 https://www.ftc.gov/system/files/documents/reports/protecting-older-consumers-2018-2019-report-federal-trade-commission/p144401_protecting_older_consumers_2019_1.pdf (viz)
 
 •		 Effect of abuse
+
 https://www.ncoa.org/public-policy-action/elder-justice/elder-abuse-facts/
 
 •		 How to protected our loved one
+
 https://www.ncoa.org/economic-security/money-management/scams-security/protection-from-scams/
 https://www.consumerreports.org/elder-fraud/ways-to-stop-senior-citizen-scams/
 https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/elder-fraud
