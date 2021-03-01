@@ -44,7 +44,7 @@ I will apply this technic by choosing one main color theme, red, for the final p
 
 https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=0&selectedRows=%7B%22wrapups%22:%7B%22united-states%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D  
 
-•		 Percentage of elder scam attacks by types 
+•		 Percentage of elder scam attacks by each types of scam
 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-top-scams.html
 
@@ -56,10 +56,6 @@ https://www.ftc.gov/news-events/blogs/data-spotlight/2019/02/romance-scams-rank-
 
 https://www.aarp.org/money/scams-fraud/info-2020/ftc-fraud-complaints-rise.html
 
-
-•		 How much does scam costs elderly
-
-https://www.ftc.gov/system/files/documents/reports/protecting-older-consumers-2018-2019-report-federal-trade-commission/p144401_protecting_older_consumers_2019_1.pdf (viz)
 
 •		 Effect of abuse
 
