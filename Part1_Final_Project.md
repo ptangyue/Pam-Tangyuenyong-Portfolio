@@ -23,6 +23,8 @@ The project will introduce practical protective measures that we and the senior 
 
 ### Story Arc
 
+![](/1.png)
+
 ### Persuasion Technic 
 #### •		Lure procedure: 
 This technic will be used when introducing the audience about the main topic in Conflict section. This will be done by first presenting audience about what are the common view about opportunity in ageing America, then present them with another side of story about threat from elder scam. (Please graphic details in the Initial Sketch section). By showing them their expectation first and reality next, I hope to create a moment of surprise for the audience to see a thing in a new way. 
@@ -66,7 +68,12 @@ https://www.justice.gov/elderjustice
 
 ## 3. Initial Sketches
 
-
+![](/2.png)
+![](/3.png)
+![](/4.png)
+![](/5.png)
+![](/6.png)
+![](/7.png)
 
 
 ## 4. Method and Medium
