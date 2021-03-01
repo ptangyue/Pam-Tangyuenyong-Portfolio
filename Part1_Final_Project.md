@@ -111,6 +111,6 @@ Similar to user feedback I
 7.	Redesign II (Final)
 The main purpose in the step would be to ensure that all visualizations support the main story, and that the whole message is compelling and engaging. 
 
-### Medium:
+### Medium
 Shorthand will be used for final project and final presentation in class.
 
