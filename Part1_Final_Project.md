@@ -38,6 +38,7 @@ Another tactic is to use unexpected reference point. Roughly, I will use this ta
 I will apply this technic by choosing one main color theme, red, for the final project. As color has meanings, I think red tone would best allow me to imply how alarming and serious the issue is. However, calmer tone such as blue will be used when we reach toward Solution section. Bluish tone gives audience a reassuring feeling which align with the purpose of solution part. 
 
 
+
 ## 2. The Data
 
 •		 The US aging population trend 
@@ -73,6 +74,7 @@ https://www.justice.gov/elderjustice
 
 
 
+
 ## 3. Initial Sketches
 
 ![](/2.png)
@@ -81,6 +83,7 @@ https://www.justice.gov/elderjustice
 ![](/5.png)
 ![](/6.png)
 ![](/7.png)
+
 
 
 ## 4. Method and Medium
