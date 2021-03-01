@@ -91,24 +91,31 @@ https://www.justice.gov/elderjustice
 ### Method
 
 1.	Research and understand the core problem
+
 In this stage, I will dive deep to learn more about the topic and collect relevant information both in quantitative and qualitative forms. The data collected will include aspects such as common types of senior scams attacks, data on number of reported cases, comparison of financial loss compared to other age group, contributing factors, and post-abuse repercussion on target. 
 
 2.	Develop storyline 
+
 The main problem about this issue is a lack of awareness. To some extent, we all know that seniors are the most vulnerable age group to any kind of attack.  However, we often overlook the importance of protective measures nor do we know which steps are included. Therefore, the storyline will aim to highlight the seriousness of this problem, its scope, and how the audience can be the “hero” of the story. 
 
 3.	Initial sketch 
+
 Initial sketch will cover both storyboard and visualization design.  Tablet will be mainly used in the sketching process.
 
 4.	User feedback I
+
 In this step, I will go through ideas with testing audience and record their responses. Since the project audience is general public, the testing group will likely be a diverse group of users. This is done to ensure that the selected storyline and visualization are accessible and engaging to everyone. 
 
 5.	Redesign and create actual visualization
+
 After reworking on storyline and sketch, I will next create the actual visualization. Platform of interest are Flourish, Tableau, and data wrapper. 
 
 6.	User feedback II
+
 Similar to user feedback I
 
 7.	Redesign II (Final)
+
 The main purpose in the step would be to ensure that all visualizations support the main story, and that the whole message is compelling and engaging. 
 
 ### Medium
