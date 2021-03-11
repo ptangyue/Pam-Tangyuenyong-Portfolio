@@ -112,15 +112,15 @@ To address this issue, I plan to use persona tactic throughout the story to help
 
 - For the visualization part, there are a couple of visualizations that seems to be distracting or incomplete. Below are my plans to address each of the issue.  
 
-  1.Type of scam bar chart (page 6) 
+1. Type of scam bar chart (page 6) 
 
 Most feedbacks mention the concern about the use of gradient and the use of horizontal bar, which make it hard to tell % for audience to tell % each scam account for. To address these issues, I plan to use consider pick two significant scams and use different tone of colors, such as red and yellow, while use grey for the other types. In addition, I plan to use a pie chart with % on it to help audience easily interpret the proportion. 
 
-  2. Dollar icon (page 5) 
+2. Dollar icon (page 5) 
 
 The most common theme of feedback is that it is hard to see the number through dollar note and it is unclear why the notes are orange. To address these concerns, I plan to change these orange bank notes into black bank note icon as well as putting numerical number at the end of the chart to make it more convenient for audience to quantify the scam effect.
 
-  3. U.S. aging society (page 3 and 4)/ It’s not about money (page 7) 
+3. U.S. aging society (page 3 and 4)/ It’s not about money (page 7) 
 
 While the interviewee could understand the key takeaway for each of these pages, they seem to be unclear in terms of the visual context. To further improve audience engagement, I plan to provide more specific context in all these pages so that the message is more tangible to the audience. In addition, I plan to recreate a pie chart in page 8, to solely focus on the scam portion in relative to the senior income, and combine this new chart with the information in page 7. 
 
