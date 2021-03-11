@@ -58,7 +58,7 @@ Visualization
 -	Page 8: For the scam chart, it is quite counterintuitive to see the scam portion (red) to take place the caretaking service and medicare (brown and light brown), rather than the saving (grey). The visualization could be combined in page 7 as both pages currently focus on the same message. 
 
 Call to action
--	Page 9: The call to action is very clear. She likes how the table is divided into 4 quadrants based on types of steps (preventive and corrective) and responsible person (younger generation and elderly).  
+-	Page 10: The call to action is very clear. She likes how the table is divided into 4 quadrants based on types of steps (preventive and corrective) and responsible person (younger generation and elderly).  
 
 
 
