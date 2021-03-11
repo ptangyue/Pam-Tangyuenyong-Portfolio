@@ -15,6 +15,8 @@
 
 
 
+
+
 ## 2. User research and Interview
 
 ### A. Target audience 
@@ -59,6 +61,7 @@ Call to action
 
 
 
+
 ### Interviewee 2 – Mid 30s, Male, Graduate student
 
 Content
@@ -75,6 +78,7 @@ Visualization
 
 Call to action
 -	Clear solid immediate next steps are provided. However, he thinks the overall story could be more engaging. 
+
 
 
 
