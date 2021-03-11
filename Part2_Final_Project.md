@@ -105,12 +105,14 @@ Call to action
 ### E. Changes I plan on implementing to my visualizations next week to address the issues identified
 
 To be specific in the areas of improvement, I divide the changes into two parts, story-telling and visualization. 
-- For the story-telling part, the main issue that seems to resonate across all of the three interviewee is a lack of emotional attachment. The visualization helps engage audience to the topic by intriguing the audience with interesting fact and figures. However, the current presentation seems quite informative rather than emotionally compelling. 
+
+For the story-telling part, the main issue that seems to resonate across all of the three interviewee is a lack of emotional attachment. The visualization helps engage audience to the topic by intriguing the audience with interesting fact and figures. However, the current presentation seems quite informative rather than emotionally compelling. 
 
 To address this issue, I plan to use persona tactic throughout the story to help increase audience’s emotional attachment. Another element I might add at the beginning of the project is the short, actual footage of senior scam. Earlier I came across some actual footages of senior scam which are both disturbing and heartbreaking. So, I think incorporating these actual elements might help my message be more impactful. In addition, I plan to rearrange the order of slide a bit to help with the flow; move the current page 6 to be right after page 4. 
 
 
-- For the visualization part, there are a couple of visualizations that seems to be distracting or incomplete. Below are my plans to address each of the issue.  
+
+For the visualization part, there are a couple of visualizations that seems to be distracting or incomplete. Below are my plans to address each of the issue.  
 
 1. Type of scam bar chart (page 6) 
 
