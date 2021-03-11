@@ -1,6 +1,16 @@
-#Final Project: Part II
+# Final Project: Part II
 
 ## 1. Wireframes and Storyboards
+![](/Picture1.png)
+![](/Picture2.png)
+![](/Picture3.png)
+![](/Picture4.png)
+![](/Picture5.png)
+![](/Picture6.png)
+![](/Picture7.png)
+![](/Picture8.png)
+![](/Picture9.png)
+![](/Picture10.png)
 
 
 ## 2. User research and Interview
@@ -23,6 +33,9 @@ In addition, all of them expressed that they have their elderly oved one, includ
 - Hello! Thank you very much for taking your time helping interview with my final project draft for Telling story with data class. My project is centered around the issue of senior scam threat and how we, the younger generation, can help protect our elderly loved one from those. Please feel free to comment on any element whether it is effective or confusing, and what I should prioritize for change. There is no right and wrong comment. All feedback is valuable and appreciated.
 
 - To meet each of the targeted goals, I asked the following set of questions to all three participants.
+
+![](/Goal and Question.png)
+
 
 
 ### D. Interview findings
