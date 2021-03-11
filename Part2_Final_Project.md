@@ -112,7 +112,7 @@ To address this issue, I plan to use persona tactic throughout the story to help
 
 - For the visualization part, there are a couple of visualizations that seems to be distracting or incomplete. Below are my plans to address each of the issue.  
 
-  1.Type of scam bar chart (page 6) 
+  1. Type of scam bar chart (page 6) 
 
 Most feedbacks mention the concern about the use of gradient and the use of horizontal bar, which make it hard to tell % for audience to tell % each scam account for. To address these issues, I plan to use consider pick two significant scams and use different tone of colors, such as red and yellow, while use grey for the other types. In addition, I plan to use a pie chart with % on it to help audience easily interpret the proportion. 
 
