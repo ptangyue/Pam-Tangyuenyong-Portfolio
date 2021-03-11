@@ -25,10 +25,9 @@ In addition, all of them expressed that they have their elderly oved one, includ
 - To meet each of the targeted goals, I asked the following set of questions to all three participants.
 
 
-
 ### D. Interview findings
 
-### Interview 1 – Late 20s, Female, Graduate student
+### Interviewee 1 – Late 20s, Female, Graduate student
 
 Content
 -	The overall flow is clear and structured, and interviewee can follow along very well. However, the presentation currently seems to be quite informative rather than engaging. 
@@ -45,7 +44,7 @@ Call to action
 -	Page 9: The call to action is very clear. She likes how the table is divided into 4 quadrants based on types of steps (preventive and corrective) and responsible person (younger generation and elderly).  
 
 
-### Interview 2 – Mid 30s, Male, Graduate student
+### Interviewee 2 – Mid 30s, Male, Graduate student
 
 Content
 -	Overall flow is good. The only part that does not logically progress is the order of page 6 (Type of scam). As the current page 5 and 7 mention about the loss and missed opportunity from scam, having page 6 in between interrupt the flow. Moving page 5 to be right after page 4 (Introduction of scam in U.S. aging society) would make the overall flow smoother. 
@@ -63,7 +62,7 @@ Call to action
 -	Clear solid immediate next steps are provided. However, he thinks the overall story could be more engaging. 
 
 
-### Interview 3 – Early 40s, Female, Professional
+### Interviewee 3 – Early 40s, Female, Professional
 
 Content
 -	The overall flow is smooth and understandable.
