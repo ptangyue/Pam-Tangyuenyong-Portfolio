@@ -112,6 +112,8 @@ To address this issue, I plan to use persona tactic throughout the story to help
 
 
 
+
+
 For the visualization part, there are a couple of visualizations that seems to be distracting or incomplete. Below are my plans to address each of the issue.  
 
 1. Type of scam bar chart (page 6) 
