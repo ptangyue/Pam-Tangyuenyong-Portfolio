@@ -34,8 +34,7 @@ In addition, all of them expressed that they have their elderly oved one, includ
 
 - To meet each of the targeted goals, I asked the following set of questions to all three participants.
 
-![](/GoalandQuestion.png)
-
+![](/Table.png)
 
 
 ### D. Interview findings
@@ -57,6 +56,7 @@ Call to action
 -	Page 9: The call to action is very clear. She likes how the table is divided into 4 quadrants based on types of steps (preventive and corrective) and responsible person (younger generation and elderly).  
 
 
+
 ### Interviewee 2 – Mid 30s, Male, Graduate student
 
 Content
@@ -75,6 +75,7 @@ Call to action
 -	Clear solid immediate next steps are provided. However, he thinks the overall story could be more engaging. 
 
 
+
 ### Interviewee 3 – Early 40s, Female, Professional
 
 Content
@@ -91,6 +92,7 @@ Visualization
 Call to action
 -	There is a clear call to action. However, the interviewee thinks it could be more engaging by emphasizing the large scope of this problem. One way to make the issue alarming is to add the number of people affected in page 2 to show how many millions of seniors are susceptible to the scam threat. 
 -	Since people in their 20s, 30s, 40s might have different capacity in what they can do to help, it may be helpful to be more specific about what kind of expectation each age group are up to. 
+
 
 
 
