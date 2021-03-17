@@ -31,9 +31,9 @@ My intended audience is younger adult in their 20s-40s. Persona is also use as p
 
 ## Details of changes and Design decisions made after Part II
 
-There were several major changes I made when creating my page in shorthand. Parts of them were from the user interviews in Part II, and some of them arose as I saw fit. The changes can be divided in to Story Telling part and Visualization part.
+There were several major changes I made when creating my page in shorthand. Parts of them were from the user interviews in Part II, and some of them arose as I saw fit. The changes can be divided in to Storytelling part and Visualization part.
 
-### Story-Telling Part
+### Storytelling Part
 **1.	Using persona**
 
 According to user interviews in Part II, one of the main issues in my presentation was a lack of audience engagement, which resulted in low enthusiasm to take recommended actions. Therefore, I decided to use persona strategy by creating two main characters, 75-year-old grandma Susan who suffered from a senior romance, and 30-year-old grandson Paul. With this, audience will learn about each areas of the senior scam as the story of how grandma Susan was trapped unfolds. 
