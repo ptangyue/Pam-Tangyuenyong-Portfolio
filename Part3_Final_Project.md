@@ -3,6 +3,7 @@
 ## A link to Shorthand
 https://carnegiemellon.shorthandstories.com/i-care-a-lot---truly/index.html
 
+
 ## A summary of steps taken to finalize my final project on Shorthand
 
 Please note that details of changes are explained in the next section “Change/Design decision made after Part II”. 
@@ -22,8 +23,10 @@ I used the same set of interview questions as in Part II to interview three user
 With the use of persona, the audience felt more connected to the story. However, users felt lost in the middle of the story as some information seemed to be disconnected with each other. To address this issue, I divided the whole story into three sections: Basic information about senior scam, Implication and Effect, and Immediate next step. To make the story flow more smoothly, I used my two cartoons, Susan and Paul, to inform the audience about the story direction. In addition, I added several visualizations to provide audience with a broader background knowledge about senior scam. 
 
 
+
 ## Identified audiences
 My intended audience is younger adult in their 20s-40s. Persona is also use as part of the storytelling. The main protagonists are 75 year-old grandma and her 30 year-old grandson. 
+
 
 
 ## Details of changes and Design decisions made after Part II
