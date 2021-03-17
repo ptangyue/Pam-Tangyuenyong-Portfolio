@@ -64,7 +64,7 @@ The initial heavy icon page would include a lot of opportunities and threats in 
 
 The initial visual representing this information was full of colored dollar bills. Most users found this visualization confusing and distractive. Therefore, I changed this into horizontal bar charts. This was much easier to interpret and effectively supported my intention to show significant difference between younger adult and elderly. 
 
-**4.	Resigning the bar chart for scam types**
+**4.	Redesigning the bar chart for scam types**
 
 Most users found this horizontal percentage bar chart with gradient color ineffective. Many audiences felt that knowledge of actual amount of loss or number of cases would be more impactful. To redesign, I created horizontal bar charts ordering from the largest loss to the smallest. In addition, I used two different colors to highlight only the top two types that the audience should be highly aware of. 
 
