@@ -27,3 +27,6 @@ Here is where all my data viz will go!
 
 
 [Final Project: Part II](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Part2_Final_Project.html)
+
+
+[Final Project: Part III](https://ptangyue.github.io/Pam-Tangyuenyong-Portfolio/Part3_Final_Project.html)
