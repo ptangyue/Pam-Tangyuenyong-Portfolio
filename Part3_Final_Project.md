@@ -1,6 +1,6 @@
 # Final Project: Part III
 
-## A link to Shorthand
+## Here is a link to my final data story on Shorthand
 https://carnegiemellon.shorthandstories.com/i-care-a-lot---truly/index.html
 
 
@@ -80,6 +80,21 @@ Strong supporting data do not only give the audience a solid contextual backgrou
 **7.	Redesigning call to action page**
 
 I planned to use table for this call to action page in the wireframe. However, after playing around with shorthand layout, I changed my mind.  The initial four quadrant table would make the less dense quadrant look less urgent and less impactful. For the redesign, I decided to combine all the required actions for younger adult into one section, as so was the senior part. I also incorporated the persona character here to make ensure persona is consistent throughout the story. In the final data story, audiences found this section very clear and easy-to-follow.
+
+
+
+## What I learned along the process
+1. Color
+- Grey is my best friend! It always effectively provides background context without drawing audience's attention from the main key message. 
+- Each color has its meaning. The appropriate use of color helps strengthen the message. 
+
+2. Storytelling
+- Story arc allows the creator craft an effective story as it providee an overvall shape of the story.
+- Persona helps increase audience empathy and engagement in the story
+- Unity and clarity of the content also help audience connect with the story.
+
+3. Visualization
+- Simple and clear visuals are the best. Regardless of how fancy visualizations are, it is no use if the audience don't understand.
 
 
 
