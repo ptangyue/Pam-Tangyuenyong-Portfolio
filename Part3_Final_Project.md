@@ -7,7 +7,7 @@ https://carnegiemellon.shorthandstories.com/i-care-a-lot---truly/index.html
 
 Please note that details of changes are explained in the next section “Change/Design decision made after Part II”. 
 
-**1.	Modify visualizations according to user interview in Part II 
+**1.	Modify visualizations according to user interview in Part II** 
 
 These include changes in visualization types and color choice. 
 
