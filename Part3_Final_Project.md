@@ -51,6 +51,7 @@ Both the section division and introduction through persona significantly improve
 Instead of the plain white background, I utilized a lot of dark-tone senior photo as my background throughout the story. The actual photos of senior depressing and suffering faces effectively created a strong sense of audience empathy to the topic. According to the latest user interview, many felt emotional after seeing those photos. 
 
 
+
 ### Visualization Part
 **1.	Getting rid of the stacked line that represents aging population trend**
 
