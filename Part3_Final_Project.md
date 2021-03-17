@@ -25,6 +25,7 @@ With the use of persona, the audience felt more connected to the story. However,
 ## Identified audiences
 My intended audience is younger adult in their 20s-40s. Persona is also use as part of the storytelling. The main protagonists are 75 year-old grandma and her 30 year-old grandson. 
 
+
 ## Details of changes and Design decisions made after Part II
 
 There were several major changes I made when creating my page in shorthand. Parts of them were from the user interviews in Part II, and some of them arose as I saw fit. The changes can be divided in to Story Telling part and Visualization part.
@@ -47,7 +48,7 @@ Both the section division and introduction through persona significantly improve
 Instead of the plain white background, I utilized a lot of dark-tone senior photo as my background throughout the story. The actual photos of senior depressing and suffering faces effectively created a strong sense of audience empathy to the topic. According to the latest user interview, many felt emotional after seeing those photos. 
 
 
-## Visualization Part
+### Visualization Part
 **1.	Getting rid of the stacked line that represents aging population trend**
 
 Initially I planned to use this stacked line graph to give audiences an impression of the large effect scope. However, instead of giving the percentage growth of elderly population, I thought it would be more impactful to directly address the number of senior victims (3Millions, 1 in every 20 seniors). According to the users, these figures effectively gave them a sense of how large the effect of senior scams are, and therefore created a sense of urgency to take action. 
