@@ -36,13 +36,13 @@ There were several major changes I made when creating my page in shorthand. Part
 ### Story-Telling Part
 **1.	Using persona**
 
-According to user interviews in Part II, one of the main issues in my presentation was a lack of audience engagement, which resulted in low enthusiasm to take recommended actions. Therefore, I decided to use persona strategy by creating two main characters, 75-year-old grandma Susan who suffered from a senior romance, and 25-year-old grandson Paul. With this, audience will learn about each areas of the senior scam as the story of how grandma Susan was trapped unfolds. 
+According to user interviews in Part II, one of the main issues in my presentation was a lack of audience engagement, which resulted in low enthusiasm to take recommended actions. Therefore, I decided to use persona strategy by creating two main characters, 75-year-old grandma Susan who suffered from a senior romance, and 30-year-old grandson Paul. With this, audience will learn about each areas of the senior scam as the story of how grandma Susan was trapped unfolds. 
 
 As a result, audiences in the latest interview felt very engaged with the topic and were compelled to take action to protect their elderly loved ones. 
 
-**2.	Dividing story into 3 parts**
+**2.	Dividing story into three parts**
 
-While diverse information about scams allow user to see the issue extensively, some users found the information unconnected with each other. They felt lost in the middle of the story. To address this issue, I grouped similar topics together and divided them into three parts: Part I (General information about senior scams), Part II (Implication and effect), and Part III (Call to actions). To help connect audience with the topic, I introduced each of the section from the perspective of grandson Paul character. 
+While diverse information about scams allow user to see the issue extensively, some users found the information unconnected with each other. They felt lost in the middle of the story. To address this issue, I grouped similar topics together and divided them into three parts: Part I (General information about senior scams), Part II (Impact of senior scams), and Part III (Call to actions). To help connect audience with the topic, I introduced each of the section from the perspective of grandson Paul character. 
 
 Both the section division and introduction through persona significantly improved the story clarity and audience engagement to each topic. 
 
@@ -79,7 +79,7 @@ Strong supporting data do not only give the audience a solid contextual backgrou
 
 **7.	Redesigning call to action page**
 
-I planned to use table for this call to action page in the wireframe. However, after playing around with shorthand layout, I changed my mind.  The initial 4 quadrant table would make the less dense quadrant look less urgent and less impactful. For the redesign, I decided to combine all the required actions for younger adult into one section, as so was the senior part. I also incorporated the persona character here to make ensure persona is consistent throughout the story. In the final data story, audiences found this section very clear and easy-to-follow.
+I planned to use table for this call to action page in the wireframe. However, after playing around with shorthand layout, I changed my mind.  The initial four quadrant table would make the less dense quadrant look less urgent and less impactful. For the redesign, I decided to combine all the required actions for younger adult into one section, as so was the senior part. I also incorporated the persona character here to make ensure persona is consistent throughout the story. In the final data story, audiences found this section very clear and easy-to-follow.
 
 
 
