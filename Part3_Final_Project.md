@@ -1,7 +1,7 @@
 # Final Project: Part III
 
 ## Here is a link to my final data story on Shorthand
-https://carnegiemellon.shorthandstories.com/i-care-a-lot---truly/index.html
+https://carnegiemellon.shorthandstories.com/i-care-a-lot-truly/index.html
 
 
 ## A summary of steps taken to finalize my final project on Shorthand
